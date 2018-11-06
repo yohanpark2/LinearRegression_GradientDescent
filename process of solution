@@ -1,0 +1,8 @@
+LinearRegressiong using python
+
+cost = sigma (wx +b - y)^2 /numOfdata : Mean Square Error
+
+w = w - a(leanrning rate)*primeOfcost
+b = b - a(learning rate)*primeOfcost
+
+using these functions , find the optimized weight and bios  
